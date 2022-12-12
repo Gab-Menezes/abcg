@@ -4,14 +4,14 @@
 ## Nome: Gabriel Jorge Menezes
 ## RA: 11201921315
 
-## Nome: Rodrigo Cabrera
+## Nome: Rodrigo Cabrera Castaldoni
 ## RA: 21005515
 
 ## **Introdução**
 
-Esse projeto consiste na continuação do trabalho do ***Boids*** (Atividade 3) com a adição de shaders de texturização e iluminação.
+Esse projeto consiste na continuação do trabalho do ***Boids*** (Atividade 3) com a adição de shaders de texturização e iluminação visuando estudar as como as diferentes fontes de luz afetam a visualização dos boids no sistema.
 
-## **Como foi feito**
+Ps: Pequenas partes foram alteradas, as mais importantes foram comentadas neste arquivo. Entretanto pode-se encontrar o readme do projeto 3 [aqui](./README_PROJETO3.md).
 
 ### **Iluminação**
 
